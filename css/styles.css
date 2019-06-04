@@ -1,0 +1,15 @@
+#javascript-define {
+  display: none;
+}
+
+#javascript {
+  display: block;
+}
+
+div {
+  max-width: 18rem;
+}
+
+.card-text {
+  display: none;
+}
